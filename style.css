@@ -1,0 +1,43 @@
+*{
+    color:darkviolet;
+}
+
+*{
+    border: solid;
+}
+
+.header{
+    background-color: aqua;
+    display: flex;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.camel{
+    background-color: darkkhaki;
+    display:flex;
+    box-shadow: 5px- 5px;
+}
+
+.chameleon{
+    background-color: greenyellow;
+    display:flex;
+    box-shadow: 5px -5px;
+}
+
+.cicada{
+    background-color: lightsalmon;
+    display:flex;
+    box-shadow: 5px -5px;
+}
+
+.pigeon{
+    background-color: skyblue;
+    display:flex;
+    box-shadow: 5px -5px;
+
+}
+
+body{
+    background-color:#008080 ;
+}
